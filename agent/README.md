@@ -2,7 +2,7 @@
 
 > 把 `agent 的钱包` 的核心账本逻辑做成一个 agent 插件：本地 JSON 存储，CLI 即 MCP 工具，脚本只输出纯事实，表达交给身份层。
 
-架构参考 [`her-cycle`](https://github.com/banxia-O/her-cycle)：**脚本是传感器，LLM 是嘴**。
+**脚本是传感器，LLM 是嘴。**
 
 ## 与 Flutter app 的关系
 
@@ -84,4 +84,4 @@ python agent/scripts/wallet.py --check
 
 ## License
 
-MIT — 写给 user 的钱包。
+MIT
